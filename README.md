@@ -8,21 +8,20 @@
 ---
 
 ## 📌 Descripción
-(Escribe aquí en qué consiste tu proyecto de forma breve)
+Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribirse a un Newsletter. Este reto te ayudará a practicar tus conocimientos básicos de diseño web, incluyendo el uso de campos de entrada (input) y botones.
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 - HTML  
 - CSS  
-- Otro: 
 
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: https://github.com/LeonardoMedina123/Newsletter/
+Deploy: 
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+Tuve problemas con los contenedores, hacer que estén centrados y que fueran responsivos, fuera de eso fue muy facil realizar la actividad

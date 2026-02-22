@@ -20,7 +20,7 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/LeonardoMedina123/Newsletter/
-Deploy: 
+Deploy: https://leonardomedina123.github.io/Newsletter/
 ---
 
 ## 📝 Reflexión
